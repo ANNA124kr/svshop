@@ -1,0 +1,129 @@
+
+
+
+.App{
+  text-align: center;
+  margin: auto;
+  max-width: 1000px;
+  user-select: none;
+
+}
+
+.Header{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  justify-items: center;
+  align-items: center;
+
+}
+h1 {
+  color:#E860A3 ;
+  text-transform: uppercase;
+}
+
+
+h2,h3,p {
+  color: #404756;
+  text-transform: uppercase;
+}
+
+img{
+  height: 100px;
+  width: 100px;
+}
+
+.cart-icon {
+  display: flex;
+  align-items: stretch;
+
+}
+
+.container{
+  flex-direction: column;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  background-color: #ffff;
+  align-items: center;
+  padding: 0 20px 80px 20px;
+}
+
+.Product {
+  
+  border: solid 1.5px #555555;
+  border-radius: 8px;
+  text-align: center;
+  width: 500px;
+  padding: 10px 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  
+  margin: 10px;
+
+}
+
+button {
+  cursor: pointer;
+  font-size: large;
+  background-color: #E860A3;
+  color: #ffff;
+  text-transform: uppercase;
+  outline: 0;
+  border: 0;
+  width: 50px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+button:hover {
+    background: #466fad;
+}
+
+@media screen and (max-width:500px){
+
+
+
+  .Header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: center;
+  
+  }
+
+  .Product {
+  
+    border: solid 1.5px #555555;
+    border-radius: 8px;
+    text-align: center;
+    max-width: 285px;
+    padding: 10px;
+    display: inline-flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-items: center;
+    
+  
+  }
+
+  img{
+    height: 70px;
+    width: 70px;
+  }
+
+
+  p {
+    color: #404756;
+    font-size: 12px;
+  }
+
+
+
+}
