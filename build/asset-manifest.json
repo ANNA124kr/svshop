@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/svshop/static/css/main.eaab0f0e.css",
+    "main.js": "/svshop/static/js/main.73273a6f.js",
+    "static/js/787.25081db8.chunk.js": "/svshop/static/js/787.25081db8.chunk.js",
+    "static/media/mouse.jpg": "/svshop/static/media/mouse.3f8880c28d4d384f3bba.jpg",
+    "static/media/lever.jpg": "/svshop/static/media/lever.749601a6bfd216c5e3c7.jpg",
+    "static/media/keybord.jpg": "/svshop/static/media/keybord.b52fa93d108d587a7516.jpg",
+    "static/media/computer.jpg": "/svshop/static/media/computer.551c76d88c705cd210c8.jpg",
+    "static/media/notebook.jpg": "/svshop/static/media/notebook.7b818d439530709d65dd.jpg",
+    "static/media/pen.jpg": "/svshop/static/media/pen.09f7573c3f0edfe60763.jpg",
+    "static/media/bag.svg": "/svshop/static/media/bag.694661c39307436a3a83eb9edd85f98c.svg",
+    "index.html": "/svshop/index.html",
+    "static/media/card.svg": "/svshop/static/media/card.2a8d59baa59ab6c9242009be09644d6d.svg",
+    "static/media/homepage.svg": "/svshop/static/media/homepage.71d7c93f8cb7b9e639123571e669c8f4.svg",
+    "main.eaab0f0e.css.map": "/svshop/static/css/main.eaab0f0e.css.map",
+    "main.73273a6f.js.map": "/svshop/static/js/main.73273a6f.js.map",
+    "787.25081db8.chunk.js.map": "/svshop/static/js/787.25081db8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaab0f0e.css",
+    "static/js/main.73273a6f.js"
+  ]
+}
