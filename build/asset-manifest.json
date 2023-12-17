@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/svshop/static/css/main.eaab0f0e.css",
+    "main.css": "/svshop/static/css/main.0e30d1cb.css",
     "main.js": "/svshop/static/js/main.73273a6f.js",
     "static/js/787.25081db8.chunk.js": "/svshop/static/js/787.25081db8.chunk.js",
     "static/media/mouse.jpg": "/svshop/static/media/mouse.3f8880c28d4d384f3bba.jpg",
@@ -13,12 +13,12 @@
     "index.html": "/svshop/index.html",
     "static/media/card.svg": "/svshop/static/media/card.2a8d59baa59ab6c9242009be09644d6d.svg",
     "static/media/homepage.svg": "/svshop/static/media/homepage.71d7c93f8cb7b9e639123571e669c8f4.svg",
-    "main.eaab0f0e.css.map": "/svshop/static/css/main.eaab0f0e.css.map",
+    "main.0e30d1cb.css.map": "/svshop/static/css/main.0e30d1cb.css.map",
     "main.73273a6f.js.map": "/svshop/static/js/main.73273a6f.js.map",
     "787.25081db8.chunk.js.map": "/svshop/static/js/787.25081db8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaab0f0e.css",
+    "static/css/main.0e30d1cb.css",
     "static/js/main.73273a6f.js"
   ]
 }
